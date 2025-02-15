@@ -8,6 +8,7 @@ import { jsPDF } from "jspdf";
 
 const students = [
   { id: "222-15-6288", name: "Md. Tuhin Sheikh", present: false },
+{ id: "222-15-6465", name: "Md.Parvez Hawlader", present: false },
   { id: "222-15-6116", name: "Jobaydul Islam", present: false },
   { id: "222-15-6299", name: "Md Naimul Islam", present: false },
   { id: "222-15-6500", name: "Md. Imran", present: false },
